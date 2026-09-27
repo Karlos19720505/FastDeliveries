@@ -1,6 +1,26 @@
+# Fast Deliveries
+
 Carlsberg Britvic's Fast Delivery service is designed to keep your business stocked and our customers satisfied — with same-day and next-day options available at your fingertips.
-Order before 2pm, delivered before 5pm. £40 delivery charge applies.
-<img width="940" height="64" alt="image" src="https://github.com/user-attachments/assets/a838a492-b1eb-4993-b9b7-884d01859b39" />
-Order before 5pm for next day delivery. No delivery charge.
-<img width="832" height="65" alt="image" src="https://github.com/user-attachments/assets/08cc577e-7816-4fa1-ba8c-11f34c58c711" />
-<img width="817" height="64" alt="image" src="https://github.com/user-attachments/assets/db409895-5b4b-448f-81d2-c677a7b276bb" />
+
+This repository contains the Fast Deliveries landing page and supporting website files.
+
+## Included files
+
+- `index.html` — the main homepage for the Fast Deliveries website
+- `README.md` — project overview and setup notes
+
+## Local preview
+
+Open `index.html` in your browser to view the page locally.
+
+## GitHub Pages
+
+To publish the site:
+
+1. Open the repository Settings page.
+2. Go to Pages.
+3. Select "Deploy from a branch".
+4. Choose the `main` branch and the `/` root folder.
+5. Save.
+
+GitHub will then provide a public URL for the site.
